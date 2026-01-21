@@ -1,0 +1,8 @@
+Metric,Value,Interpretation
+Disparate Impact Ratio (DIR),0.9153,Group B has 91.5% of Group A's positive rate
+4/5ths Rule Threshold,0.80,Legal threshold under Title VII EEOC guidance
+Passes 4/5ths Rule,YES,Overall passes; Non-senior segment is closer to threshold
+Statistical Parity Difference (SPD),-0.0617 pp,Group B is disadvantaged by 0.062 percentage points
+Group A Selection Rate (%),0.7293,Baseline for privileged group
+Group B Selection Rate (%),0.6676,Baseline for unprivileged group
+Relative Disparity (%),8.47,Group B is 8.5% less likely to receive positive outcome
